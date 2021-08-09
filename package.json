@@ -1,0 +1,67 @@
+{
+  "name": "coc-manga-completion",
+  "version": "1.0.3",
+  "description": "Manga titles completion source for coc.nvim",
+  "main": "./index.js",
+  "scripts": {},
+  "engines": {
+    "coc": ">=0.0.57"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ultirequiem/coc-manga-completion.git"
+  },
+  "keywords": [
+    "coc.nvim",
+    "manga"
+  ],
+  "activationEvents": [
+    "*"
+  ],
+  "contributes": {
+    "configuration": {
+      "type": "object",
+      "properties": {
+        "manga.enable": {
+          "type": "boolean",
+          "default": true,
+          "description": "Enables Manga Completion"
+        },
+        "manga.shortcut": {
+          "type": "string",
+          "default": "Manga"
+        },
+        "manga.priority": {
+          "type": "integer",
+          "default": 1
+        },
+        "manga.filetypes": {
+          "type": [
+            "array",
+            "null"
+          ],
+          "default": null,
+          "items": {
+            "type": "string"
+          }
+        }
+      }
+    }
+  },
+  "author": "eliaz.bobadilladev@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Ultirequiem/coc-manga-completion/issues"
+  },
+  "homepage": "https://github.com/Ultirequiem/coc-manga-completion#readme",
+  "devDependencies": {
+    "coc.nvim": ">=0.0.57",
+    "eslint": "^7.32.0",
+    "eslint-config-airbnb-base": "^14.2.1",
+    "eslint-config-prettier": "^8.3.0",
+    "eslint-plugin-import": "^2.24.0",
+    "eslint-plugin-prettier": "^3.4.0",
+    "prettier": "^2.3.2"
+  },
+  "gitHead": "7ead63e794458e58e85d93556be8bf566ad1ceeb"
+}
