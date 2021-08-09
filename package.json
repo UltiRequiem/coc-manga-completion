@@ -61,6 +61,8 @@
     "eslint-config-prettier": "^8.3.0",
     "eslint-plugin-import": "^2.24.0",
     "eslint-plugin-prettier": "^3.4.0",
+    "prettier-eslint": "^13.0.0",
+    "prettier-plugin-jsdoc": "^0.3.23",
     "prettier": "^2.3.2"
   },
   "gitHead": "7ead63e794458e58e85d93556be8bf566ad1ceeb"

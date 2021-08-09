@@ -16,7 +16,7 @@ exports.activate = async (context) => {
     sources.createSource({
       name: 'manga',
       triggerCharacters: [],
-      async doComplete (opt) {
+      async doComplete(opt) {
         if (!opt.input) return null;
         if (!/^[A-Za-z]{1,}$/.test(opt.input)) return null;
         const first = opt.input[0];
