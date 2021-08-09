@@ -1,6 +1,6 @@
 {
   "name": "coc-manga-completion",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Manga titles completion source for coc.nvim",
   "main": "./index.js",
   "scripts": {},
