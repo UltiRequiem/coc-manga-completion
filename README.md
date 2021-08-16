@@ -1,7 +1,7 @@
 # coc-manga-completion
 
 Auto Completion for Manga titles.
-Similar to [coc-words](https://github.com/neoclide/coc-sources/tree/master/packages/word)
+Similar to [coc-words](https://github.com/neoclide/coc-sources/tree/master/packages/word).
 
 ## Install
 
