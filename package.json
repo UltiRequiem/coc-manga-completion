@@ -2,7 +2,7 @@
   "name": "coc-manga-completion",
   "version": "1.0.4",
   "description": "Manga titles completion source for coc.nvim",
-  "main": "./index.js",
+  "main": "./src/index.js",
   "scripts": {
     "lint": "standard"
   },
@@ -35,7 +35,7 @@
         },
         "manga.priority": {
           "type": "integer",
-          "default": 1
+          "default": 0
         },
         "manga.filetypes": {
           "type": [

@@ -1,11 +1,12 @@
 # coc-manga-completion
 
-Auto Completion for Manga titles. Similar to
-[coc-words](https://github.com/neoclide/coc-sources/tree/master/packages/word).
+Manga titles completion for [coc.nvim](https://github.com/neoclide/coc.nvim) 🖼️
 
 ## Install
 
-`:CocInstall coc-manga-completion`
+```
+:CocInstall coc-manga-completion
+```
 
 ## Configuration
 
@@ -14,9 +15,18 @@ Auto Completion for Manga titles. Similar to
 - `manga.priority`: default `0`.
 - `manga.filetypes`: default `null`.
 
-### License
+## Support
 
-[MIT](./LICENSE)
+Open an Issue, I will check it a soon as possible 👀
 
-> I done this to learn how to do a
-> [coc.nvim](https://github.com/neoclide/coc.nvim) extension using JavaScript.
+If you want to hurry me up a bit
+[send me a tweet](https://twitter.com/UltiRequiem) 😆
+
+Consider [supporting me on Patreon](https://patreon.com/UltiRequiem) if you
+like my work 🙏
+
+Don't forget to start the repo ⭐
+
+## Licence
+
+Licensed under the MIT License 📄
