@@ -1,7 +1,7 @@
 # coc-manga-completion
 
-Auto Completion for Manga titles.
-Similar to [coc-words](https://github.com/neoclide/coc-sources/tree/master/packages/word).
+Auto Completion for Manga titles. Similar to
+[coc-words](https://github.com/neoclide/coc-sources/tree/master/packages/word).
 
 ## Install
 
@@ -19,5 +19,4 @@ Similar to [coc-words](https://github.com/neoclide/coc-sources/tree/master/packa
 [MIT](./LICENSE)
 
 > I done this to learn how to do a
-> [coc.nvim](https://github.com/neoclide/coc.nvim)
-> extension using JavaScript.
+> [coc.nvim](https://github.com/neoclide/coc.nvim) extension using JavaScript.
