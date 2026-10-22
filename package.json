@@ -62,7 +62,7 @@
   "homepage": "https://github.com/Ultirequiem/coc-manga-completion#readme",
   "devDependencies": {
     "coc.nvim": ">=0.0.57",
-    "standard": "^16.0.4"
+    "standard": "^17.1.2"
   },
   "packageManager": "pnpm@12.6.0"
 }
