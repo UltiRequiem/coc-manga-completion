@@ -63,5 +63,6 @@
   "devDependencies": {
     "coc.nvim": ">=0.0.57",
     "standard": "^16.0.4"
-  }
+  },
+  "packageManager": "pnpm@12.6.0"
 }
