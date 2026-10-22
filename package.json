@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Ultirequiem/coc-manga-completion.git"
+    "url": "git+https://github.com/UltiRequiem/coc-manga-completion.git"
   },
   "keywords": [
     "coc.nvim",
