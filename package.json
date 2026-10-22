@@ -51,10 +51,6 @@
     }
   },
   "author": "eliaz.bobadilladev@gmail.com",
-  "funding": {
-    "type": "patreon",
-    "url": "https://www.patreon.com/ultirequiem"
-  },
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/Ultirequiem/coc-manga-completion/issues"
